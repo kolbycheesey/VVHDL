@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/mkolb/Documents/GitHub/VHDL/Week2/AAC2M2H2
+vAAC2M3P1_tb
+!s110 1701156183
+!i10b 1
+!s100 `_?0lU:A_VSW7]Z0h<_Ea3
+IiaQ8Ko>T:M?`V^=1PZ4J=0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/mkolb/Documents/GitHub/VHDL/Week3/AAC2M3P1
+w1573423604
+8C:/Users/mkolb/Documents/GitHub/VHDL/Week3/AAC2M3P1/AAC2M3P1_tb.vp
+FC:/Users/mkolb/Documents/GitHub/VHDL/Week3/AAC2M3P1/AAC2M3P1_tb.vp
+L0 61
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1701156183.000000
+!s107 C:/Users/mkolb/Documents/GitHub/VHDL/Week3/AAC2M3P1/AAC2M3P1_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mkolb/Documents/GitHub/VHDL/Week3/AAC2M3P1/AAC2M3P1_tb.vp|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+n@a@a@c2@m3@p1_tb
+vComparator2
+!s110 1701156470
+!i10b 1
+!s100 ne][Dzm6ggne7ZbzQ;RK22
+I6Af=`8IjR5oT]=kXH8O^I1
+R0
+R1
+w1701156467
+8C:/Users/mkolb/Documents/GitHub/VHDL/Week3/AAC2M3P1/AAC2M3P1.v
+FC:/Users/mkolb/Documents/GitHub/VHDL/Week3/AAC2M3P1/AAC2M3P1.v
+L0 38
+R2
+r1
+!s85 0
+31
+!s108 1701156469.000000
+!s107 C:/Users/mkolb/Documents/GitHub/VHDL/Week3/AAC2M3P1/AAC2M3P1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/mkolb/Documents/GitHub/VHDL/Week3/AAC2M3P1/AAC2M3P1.v|
+!i113 1
+R3
+R4
+n@comparator2
